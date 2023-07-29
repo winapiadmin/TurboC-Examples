@@ -16,5 +16,6 @@ int main()
 	lineto(130 + x, 30 + y);
 	moveto(0 + x, 100 + y);
 	lineto(30 + x, 130 + y);
+	getch()
 	closegraph();
 }
